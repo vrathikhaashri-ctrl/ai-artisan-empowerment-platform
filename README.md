@@ -1,11 +1,30 @@
+# CraftBloom – AI Artisan Empowerment Platform
 
-  # CraftBloom UI/UX Design
+CraftBloom is an AI-powered platform that helps artisans, homemakers, and skilled workers grow their business and skills using AI guidance.
 
-  This is a code bundle for CraftBloom UI/UX Design. The original project is available at https://www.figma.com/design/cz6ZOmlFLPDwtlZEQa3jOM/CraftBloom-UI-UX-Design.
+## Problem
+Many skilled workers like tailors and beauticians cannot grow their business due to lack of digital knowledge and awareness.
 
-  ## Running the code
+## Solution
+Our AI platform helps them:
+- Analyze their work
+- Discover trending designs
+- Build their personal brand
+- Learn new skills
+- Access government schemes
 
-  Run `npm i` to install the dependencies.
+## UI Design
+This project includes the CraftBloom UI/UX design generated from Figma.
 
-  Run `npm run dev` to start the development server.
-  
+Original UI design source:
+https://www.figma.com/
+
+## Running the Project
+
+Install dependencies
+
+npm install
+
+Start development server
+
+npm run dev
